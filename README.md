@@ -232,6 +232,14 @@
       height="40"
     />
   </a>
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+    <img
+      src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 <h3 align="left">Estudando:</h3>
 <p align="left">
