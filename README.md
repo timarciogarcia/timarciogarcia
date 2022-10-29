@@ -78,7 +78,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc"
       alt="nextjs"
       background-color="white"
       width="40"
