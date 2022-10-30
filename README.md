@@ -30,7 +30,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languagens, FrameWorks e Bibliotecas:</h3>
+<h3 align="left">Linguagens, FrameWorks e Bibliotecas:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
