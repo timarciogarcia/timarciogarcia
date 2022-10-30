@@ -1,4 +1,4 @@
-<h1 align="center">Marcio garcia</h1>
+<h1 align="center">Marcio Garcia</h1>
 
 <h3 align="left">Redes Sociais</h3>
 <p align="left">
