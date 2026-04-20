@@ -54,14 +54,11 @@
     <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /></td>
     <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /></td>
     <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" /></td>
-    <td><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" /></td>
     <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /></td>
-    <td><img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" /></td>
     <td><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" /></td>
     <td><img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" /></td>
     <td><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" /></td>
-    <td><img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" /></td>
     <td><img src="https://skillicons.dev/icons?i=sass" alt="Sass" title="Sass" /></td>
   </tr>
 </table>
@@ -75,7 +72,7 @@
     <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /></td>
     <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" /></td>
     <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" /></td>
-    <td><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" /></td>
+    <td><img src="https://skillicons.dev/icons?i=oracle" alt="SQLite" title="Oracle" /></td>
     <td><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" title="SQL Server" /></td>
   </tr>
 </table>
@@ -88,8 +85,6 @@
   <tr>
     <td><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></td>
     <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /></td>
-    <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" /></td>
-    <td><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" title="Photoshop" /></td>
     <td><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" title="Prometheus" /></td>
     <td><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" title="Grafana" /></td>
     <td><img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer" title="Portainer" /></td>
